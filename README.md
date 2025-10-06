@@ -2,8 +2,8 @@
 
 Sou Gabriel, estudante de Ciências da Computação na Atitus Educação.
 
-📌 Interesses: Desenvolvimento Front-End e UI/UX  
-🏯 Anime favorito: **Kingdom**
+📌 **Interesses:** Desenvolvimento Front-End e UI/UX  
+🏯 **Anime favorito:** Kingdom
 
 ---
 
