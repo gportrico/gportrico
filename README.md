@@ -47,7 +47,7 @@ Sou Gabriel, estudante de Ciências da Computação na Atitus Educação.
 
 ###
 
-<h3>🌐 Entre em contato</h3>
+<h3>🌐 Contato</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gportrico/" target="_blank">
